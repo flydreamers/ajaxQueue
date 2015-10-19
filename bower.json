@@ -6,7 +6,7 @@
     "Nicolás Gleichgerrcht <ngleich@flydreamers.com>"
   ],
   "description": "An jquery queue for serialising a queue of ajax request",
-  "main": "ajax-queue.js",
+  "main": "ajaxQueue.js",
   "keywords": [
     "ajax",
     "queue",
